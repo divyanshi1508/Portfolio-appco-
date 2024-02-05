@@ -339,7 +339,7 @@ html, body{
     background-color: #fcfbef;
 }
 .section6 .sixback{
-    background: linear-gradient(100deg, rgba(249, 33, 141, .8)0%, rgba(110, 25, 246,.8)100%), url(.best_pricingbg.jpg.webp);
+    background: linear-gradient(100deg, rgba(249, 33, 141, .8)0%, rgba(110, 25, 246,.8)100%), url(.best_pricingbg.jpg);
     height: 68vh;
 }
 
